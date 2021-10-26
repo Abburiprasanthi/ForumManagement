@@ -9373,26 +9373,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stungar\\.nuget\\packages\\": {}
+    "C:\\Users\\PRABBURI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stungar\\source\\repos\\ForumManagement\\ForumManagement\\ForumManagement.csproj",
+      "projectUniqueName": "c:\\Users\\PRABBURI\\IDigital7.0Project\\19-10-21\\ForumManagement\\ForumManagement\\ForumManagement.csproj",
       "projectName": "ForumManagement",
-      "projectPath": "C:\\Users\\stungar\\source\\repos\\ForumManagement\\ForumManagement\\ForumManagement.csproj",
-      "packagesPath": "C:\\Users\\stungar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stungar\\source\\repos\\ForumManagement\\ForumManagement\\obj\\",
+      "projectPath": "c:\\Users\\PRABBURI\\IDigital7.0Project\\19-10-21\\ForumManagement\\ForumManagement\\ForumManagement.csproj",
+      "packagesPath": "C:\\Users\\PRABBURI\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\PRABBURI\\IDigital7.0Project\\19-10-21\\ForumManagement\\ForumManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\stungar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\PRABBURI\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9464,7 +9462,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   },
